@@ -1,0 +1,10 @@
+# Executables
+*.exe
+*.out
+*.app
+
+# Object files and Build directories
+*.o
+*.obj
+build/
+cmake-build-debug/
